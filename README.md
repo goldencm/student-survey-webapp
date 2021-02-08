@@ -28,7 +28,7 @@ A django based web application made for the Software Engineering course at SUNY 
 </details>
 
 
-
+ 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
