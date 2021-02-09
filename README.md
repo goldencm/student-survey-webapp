@@ -1,6 +1,6 @@
 # student-survey-webapp
 A django based web application made for the Software Engineering course at SUNY Potsdam
-
+[Check it out!](https://student-survey-webapp.herokuapp.com/)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -31,15 +31,13 @@ A django based web application made for the Software Engineering course at SUNY 
  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
+  This project is designed to be used as a student survey for the dean of SUNY Potsdam. The project is implemented under a team of seven for the CIS 356 course. MongoDB was chosen for its cloud capabilities to reduce overhead of passing around the database files between developers to reduce redundency. The web app is hosted at [https://student-survey-webapp.herokuapp.com/](https://student-survey-webapp.herokuapp.com/) in order to view the most recent configured branch without having to build on a local machine.
 
 ### Built With
 
-* [Django]()
-* [Docker]()
-* []()
+* [Django](https://www.djangoproject.com/)
+* [Docker](https://www.docker.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 
 
@@ -50,8 +48,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * docker/docker-compose
+* python
 
 ### Installation
 
@@ -61,13 +59,13 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Run docker-compose build
 
+3. Use the run.py for command arguements. Check out the Docs for the run.py file
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 TODO: Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
@@ -103,7 +101,7 @@ None as of yet
 
 
 Project Link: [https://github.com/goldencm/student-survey-webapp/](https://github.com/goldencm/student-survey-webapp/)
-
+Email: [goldencm203@potsdam.edu](goldencm203@potsdam.edu)
 
 
 <!-- ACKNOWLEDGEMENTS -->
